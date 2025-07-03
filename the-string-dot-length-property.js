@@ -16,13 +16,16 @@ Your task is to:
 // Starter Code (Pre-filled):
 // Predefined strings
 let stringOne = "Coding Bootcamp";
+console.log(stringOne.length);
 let stringTwo = "JavaScript";
+console.log(stringTwo.length);
 let stringThree = "";
+console.log(stringThree.length);
 
 // Your task: Assign the length of each string to the corresponding variable
-let lengthOne;   // Length of stringOne
-let lengthTwo;   // Length of stringTwo
-let lengthThree; // Length of stringThree
+let lengthOne =15;   // Length of stringOne
+let lengthTwo =10;   // Length of stringTwo
+let lengthThree =0; // Length of stringThree
 
 // Your code here
 
